@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm izeperson</h1>
 <h3 align="center">code is kinda cool</h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=izeperson&label=Profile%20views&color=0e75b6&style=flat" alt="izeperson" /> </p>
+
+<p align="center"> <img src="https://i.postimg.cc/nh3cKGpC/Untitled-2.png" alt="place"/> </p>
+
 <div align="center">
 
 <p><strong>🔧 Monarch OS,Personal project</strong></p>
@@ -103,4 +107,3 @@
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
   </a>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=izeperson&label=Profile%20views&color=0e75b6&style=flat" alt="izeperson" /> </p>
