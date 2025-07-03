@@ -3,6 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=izeperson&label=Profile%20views&color=0e75b6&style=flat" alt="izeperson" /> </p>
 
+<div align="center">
 - 🔭 I’m currently working on **Monarch OS, personal project.**
 
 - 🌱 I’m currently learning **Golang and pentesting.**
@@ -10,8 +11,8 @@
 - 💬 Ask me about **Frontend/backend**
 
 - 📫 How to reach me: **jack@dnflin-os.com**
+</div>
 
-  
 <h2 align="center">Languages and Tools:</h2>
 
 <h3 align="center">Frontend</h3>
