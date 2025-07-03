@@ -3,8 +3,7 @@
 
 <div align="center">
 
-  <h3>🔧 Monarch OS</h3>
-<p><strong>Personal project</strong></p>
+<p><strong>🔧 Monarch OS,Personal project</strong></p>
 
 <p>🌱 Learning <strong>Golang</strong> and <strong>pentesting</strong></p>
 
