@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<p><strong>🔧 Monarch OS,Personal project</strong></p>
+<p><strong>🔧 Monarch OS, Personal project</strong></p>
 
 <p>🌱 Learning <strong>Golang</strong> and <strong>pentesting</strong></p>
 
