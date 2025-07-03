@@ -4,13 +4,16 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=izeperson&label=Profile%20views&color=0e75b6&style=flat" alt="izeperson" /> </p>
 
 <div align="center">
-- 🔭 I’m currently working on **Monarch OS, personal project.**
 
-- 🌱 I’m currently learning **Golang and pentesting.**
+  <h3>🔧 Monarch OS</h3>
+<p><strong>Personal project</strong></p>
 
-- 💬 Ask me about **Frontend/backend**
+<p>🌱 Learning <strong>Golang</strong> and <strong>pentesting</strong></p>
 
-- 📫 How to reach me: **jack@dnflin-os.com**
+<p>💬 Ask me about <strong>Frontend/backend</strong></p>
+
+<p>📫 Reach me at <a href="mailto:jack@dnflin-os.com">jack@dnflin-os.com</a></p>
+
 </div>
 
 <h2 align="center">Languages and Tools:</h2>
