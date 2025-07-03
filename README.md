@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Frontend/backend**
 
-- 📫 How to reach me **jack@dnflin-os.com**
+- 📫 How to reach me: **jack@dnflin-os.com**
 
   
 <h2 align="left">Languages and Tools:</h2>
