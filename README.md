@@ -1,18 +1,17 @@
 <h1 align="center">Hi, I'm Jack</h1>
 <h3 align="center">code is kinda cool</h3>
-<p align="center">I suck at python and C++</p>
-
 <p align="center"> <img src="https://i.postimg.cc/nh3cKGpC/Untitled-2.png" alt="place"/> </p>
 
 <div align="center">
+  <p> <strong>My Python, C++, and MySQL aren't amazing but i can still work with it.</strong>
+    
+  <p><strong>🔧 Monarch OS, Personal project</strong></p>
 
-<p><strong>🔧 Monarch OS, Personal project</strong></p>
+  <p>🌱 Learning <strong>Golang</strong>, <strong>Java</strong>, <strong>and Kotlin</strong></p>
 
-<p>🌱 Learning <strong>Golang</strong> and <strong>pentesting</strong></p>
+  <p>💬 Ask me about <strong>Frontend/backend</strong></p>
 
-<p>💬 Ask me about <strong>Frontend/backend</strong></p>
-
-<p>📫 Reach me at <a href="mailto:jack@dnflin-os.com">jack@dnflin-os.com</a></p>
+  <p>📫 Reach me at <a href="mailto:jack@dnflin-os.com">jack@dnflin-os.com</a></p>
 
 </div>
 
