@@ -5,7 +5,7 @@
 <div align="center">
   <p> <strong>My Python, C++, and MySQL aren't amazing but i can still work with it.</strong>
     
-  <p><strong>🔧 Monarch OS, Personal project</strong></p>
+  <p><strong>🔧 Monarch OS</strong></p>
 
   <p>🌱 Learning <strong>Golang</strong>, <strong>Java</strong>, <strong>and Kotlin</strong></p>
 
