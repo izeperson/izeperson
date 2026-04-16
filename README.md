@@ -5,7 +5,7 @@ i'm proficient in linux and basically anything networking, i also develop in my 
 <div class="main">
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,cpp,rust,go,java,python,html,css,js,bootstrap,neovim,linux,gtk,bash,bsd,mysql,nginx,&theme=dark"/>
+      <img src="https://skillicons.dev/icons?i=git,docker,rust,go,java,python,html,css,js,bootstrap,neovim,linux,mysql,nginx,&theme=dark"/>
     </a>
   </p>
 </div>
