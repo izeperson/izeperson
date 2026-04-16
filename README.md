@@ -1,7 +1,6 @@
 # izeperson | Jack
-i do software. i also speak english, japanese, and some german. i'm full stack, so i can develop anything you want :)
-i'm proficient in linux and basically anything networking, i also develop in my free time (providing that i can think of something lol)
-## Stuff
+i like computers
+## Stuff i use
 <div class="main">
   <p>
     <a href="https://skillicons.dev">
