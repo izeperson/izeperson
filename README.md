@@ -1,5 +1,6 @@
 # izeperson | Jack
 i like computers
+<br> i speak japanese and english.
 ## Stuff i use
 <div class="main">
   <p>
