@@ -1,6 +1,7 @@
 # izeperson | Jack
 i like computers
 <br> i speak japanese and english.
+<br> I have my [CCNA](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html) (2025)
 ## Stuff i use
 <div class="main">
   <p>
